@@ -1,8 +1,8 @@
 <?php 
 $namaserver = "localhost";
-$username = "inir8265_root";
-$passwd = "root2021";
-$namadb="inir8265_test";
+$username = "root";
+$passwd = "";
+$namadb="test";
 
 $koneksi = mysqli_connect($namaserver,$username,$passwd,$namadb);
 //periksa koneksi berhasil atau tidak
