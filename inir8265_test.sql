@@ -1,6 +1,6 @@
 -- MySQL dump 10.19  Distrib 10.2.44-MariaDB, for Linux (x86_64)
 --
--- Host: localhost    Database: inir8265_test
+-- Host: localhost    Database: test
 -- ------------------------------------------------------
 -- Server version	10.2.44-MariaDB-cll-lve
 
